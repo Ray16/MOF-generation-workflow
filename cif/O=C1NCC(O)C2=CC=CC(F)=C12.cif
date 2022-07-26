@@ -1,0 +1,46 @@
+data_image0
+_chemical_formula_structural       OCNC2OC5FCH8
+_chemical_formula_sum              "O2 C9 N1 F1 H8"
+_cell_length_a       30
+_cell_length_b       30
+_cell_length_c       30
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.04329  0.06721  0.05943  1.0000
+  C   C1        1.0  0.01601  0.04817  0.03590  1.0000
+  N   N1        1.0  0.97293  0.06397  0.03349  1.0000
+  C   C2        1.0  0.94300  0.05060  0.99797  1.0000
+  C   C3        1.0  0.94436  0.00000  0.99104  1.0000
+  O   O2        1.0  0.92336  0.97788  0.02751  1.0000
+  C   C4        1.0  0.99183  0.98380  0.98804  1.0000
+  C   C5        1.0  0.00186  0.94440  0.96486  1.0000
+  C   C6        1.0  0.04569  0.92906  0.96237  1.0000
+  C   C7        1.0  0.07977  0.95276  0.98323  1.0000
+  C   C8        1.0  0.07004  0.99160  0.00681  1.0000
+  F   F1        1.0  0.10397  0.01312  0.02634  1.0000
+  C   C9        1.0  0.02635  0.00734  0.00960  1.0000
+  H   H1        1.0  0.96880  0.09406  0.04836  1.0000
+  H   H2        1.0  0.95362  0.06813  0.96774  1.0000
+  H   H3        1.0  0.90952  0.06177  0.00722  1.0000
+  H   H4        1.0  0.92586  0.99157  0.96070  1.0000
+  H   H5        1.0  0.93706  0.98954  0.05459  1.0000
+  H   H6        1.0  0.97539  0.92536  0.94890  1.0000
+  H   H7        1.0  0.05326  0.89852  0.94434  1.0000
+  H   H8        1.0  0.11402  0.94114  0.98157  1.0000
